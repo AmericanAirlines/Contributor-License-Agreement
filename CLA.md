@@ -24,4 +24,4 @@ Upon submission of a Contribution to the Project, with respect to that Contribut
 
 7.	Should You wish to submit work that is not Your original creation, You must submit it to American separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as “Submitted on behalf of a third-party: [name here]”.
 
-8.	You agree to notify American through the Project owners of any facts or circumstances of which you become aware that would make Your representations in this agreement inaccurate in any respect.
+8.	You agree to notify American through the project maintainers of any facts or circumstances of which you become aware that would make Your representations in this agreement inaccurate in any respect.
