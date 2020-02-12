@@ -1,0 +1,27 @@
+Last Updated: February 7, 2020
+
+Thank you for contributing to our American Airlines, Inc. (“American”) open source project. By contributing to a project that points you to this license agreement (the “Project”), you agree to its terms. Please read these terms carefully.
+
+If you have questions about these terms, you may submit them to the Project’s maintainers. However, no one at American can function as your attorney, so we may have to direct you to seek your own legal counsel. If we see certain questions asked repeatedly, we may publish an FAQ to assist our contributors in understanding American’s views, but only your legal advisor can help you understand how agreeing to these terms will affect you. We have based these terms on the Apache contribution license agreements. 
+
+Upon submission of a Contribution to the Project, with respect to that Contribution, You and American hereby agree as follows as of the date of the submission:
+
+1. Definitions
+
+“You” or “Your” means the copyright owner or legal entity authorized by the copyright owner that is submitting the Contribution and thereby making this agreement with American. For legal entities, the entity making the Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single contributor. “Control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of 50% or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+“Contribution” means any work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to American for inclusion in, or documentation of, any products owned or managed by American now or into the future (collectively, the “Work”). 
+
+2.	Copyright License. Subject to the terms of this agreement, You hereby grant to American and to recipients of software distributed by American a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribution Your Contributions and any such derivative works. 
+
+3.	Patent License. Subject to the terms of this agreement, You hereby grant to American a perpetual, worldwide, non-exclusive, no-charge, royally-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by You that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with he Work to which such Contribution(s) was submitted. If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this agreement for that Contribution or Work will terminate as of the date such litigation is filed.
+
+4.	You represent that you are legally entitled to grant the above licenses. If your employer(s) has rights to the intellectual property that you create that includes your Contributions, you represent you have received permission to make Contributions on behalf of that employer and subject to the licenses granted above, that your employer has waived such rights for your Contributions to American, or that your employer has executed a separate agreement with American that governs your employer’s and American’s rights with respect to your Contributions.
+
+5.	You represent that Your Contribution is Your original creation (see Section 7 for submissions on behalf of others). You represent that Your Contribution includes complete details of any third-party license or other restrictions (including, but not limited to, related patents and trademarks) of which you are personally aware and that are associated with any part of Your Contribution.
+
+6.	You are not expected to provide support for Your Contribution, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all, but nothing in this agreement obligates American to accept such support or pay for it. Unless required by applicable law or agreed to in this agreement or otherwise in writing, You provide Your Contribution on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7.	Should You wish to submit work that is not Your original creation, You must submit it to American separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as “Submitted on behalf of a third-party: [name here]”.
+
+8.	You agree to notify American through the Project owners of any facts or circumstances of which you become aware that would make Your representations in this agreement inaccurate in any respect.
